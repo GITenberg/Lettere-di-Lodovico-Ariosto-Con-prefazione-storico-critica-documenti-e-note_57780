@@ -1,0 +1,33 @@
+_repo: Lettere-di-Lodovico-Ariosto-Con-prefazione-storico-critica-documenti-e-note_57780
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Ariosto, Lodovico
+    aliases:
+    - Ariost, Lodovico
+    - Ariosto, Ludovico
+    birthdate: 1474
+    deathdate: 1533
+    gutenberg_agent_id: '322'
+    url: http://www.gutenberg.org/2009/agents/322
+    wikipedia: http://en.wikipedia.org/wiki/Ludovico_Ariosto
+  editor:
+    agent_name: Cappelli, Antonio
+    gutenberg_agent_id: '49599'
+    url: http://www.gutenberg.org/2009/agents/49599
+description: ''
+gutenberg_bookshelf: IT Narrativa varia
+gutenberg_issued: '2018-08-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '57780'
+language: it
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Lettere di Lodovico Ariosto
+
+  Con prefazione storico-critica, documenti e note'
+url: http://www.gutenberg.org/ebooks/57780
